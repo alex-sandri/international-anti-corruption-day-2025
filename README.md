@@ -4,15 +4,15 @@
 | :-: | :-: |
 | Università Nazionale dei Servizi Pubblici di Budapest | 9 dicembre 2025 |
 
-## Organizzazione delle Nazioni Unite (ONU)
+## [Organizzazione delle Nazioni Unite](un-it) (ONU)
 
 | 🇬🇧 |
 | :-: |
-| *United Nations* |
+| [*United Nations*](un-en) |
 
 TODO
 
-## Servizio nazionale di protezione dell'Ungheria *(NVSZ)*
+## [Servizio nazionale di protezione dell'Ungheria](nvsz) *(NVSZ)*
 
 | 🇬🇧 | 🇭🇺 |
 | :-: | :-: |
@@ -20,14 +20,20 @@ TODO
 
 TODO
 
-## Autorità Nazionale Anticorruzione (ANAC)
+## [Autorità Nazionale Anticorruzione](anac) (ANAC)
 
 TODO
 
-## Università Nazionale dei Servizi Pubblici di Budapest
+## [Università Nazionale dei Servizi Pubblici](nke) di Budapest
 
-| 🇬🇧 |
-| :-: |
-| *United Nations* |
+| 🇬🇧 | 🇭🇺 |
+| :-: | :-: |
+| *Ludovika University of Public Service* | *Nemzeti Közszolgálati Egyetem* |
 
 TODO
+
+[anac]: https://www.anticorruzione.it
+[nke]: https://en.uni-nke.hu
+[nvsz]: https://www.nvsz.hu
+[un-en]: https://www.un.org/en/
+[un-it]: https://unric.org/it/
