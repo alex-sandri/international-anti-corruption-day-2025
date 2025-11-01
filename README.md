@@ -1,14 +1,28 @@
 # Giornata internazionale contro la corruzione
 
-| Luogo | Data |
-| :-: | :-: |
-| Università Nazionale dei Servizi Pubblici di Budapest | 9 dicembre 2025 |
+| Luogo | Data | Tema |
+| :-: | :-: | :-: |
+| [Università Nazionale dei Servizi Pubblici di Budapest](#università-nazionale-dei-servizi-pubblici-di-budapest) | 9 dicembre 2025 | *Uniting with Youth Against Corruption: Shaping Tomorrow's Integrity* |
+
+| 🇬🇧 |
+| :-: |
+| [*International Anti-Corruption Day*][iacd] |
+
+TODO
 
 ## [Organizzazione delle Nazioni Unite][un-it] (ONU)
 
 | 🇬🇧 |
 | :-: |
 | [*United Nations*][un-en] |
+
+TODO
+
+### Ufficio delle Nazioni Unite sulla Droga e il Crimine *(UNODC)*
+
+| 🇬🇧 |
+| :-: |
+| [*United Nations Office on Drugs and Crime*][unodc] |
 
 TODO
 
@@ -33,7 +47,9 @@ TODO
 TODO
 
 [anac]: https://www.anticorruzione.it
+[iacd]: https://www.unodc.org/unodc/en/anticorruptionday/index.html
 [nke]: https://en.uni-nke.hu
 [nvsz]: https://www.nvsz.hu
 [un-en]: https://www.un.org/en/
 [un-it]: https://unric.org/it/
+[unodc]: https://www.unodc.org
