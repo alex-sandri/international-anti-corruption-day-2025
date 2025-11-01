@@ -8,6 +8,8 @@
 | :-: |
 | [*International Anti-Corruption Day*][iacd] |
 
+Il [*team* ungherese](https://corruptionprevention.gov.hu/national-law-enforcement-competition-in-the-spirit-of-corruption-prevention) è stato scelto a partire da una competizione nazionale.
+
 TODO
 
 ## [Organizzazione delle Nazioni Unite][un-it] (ONU)
