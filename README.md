@@ -8,7 +8,7 @@
 | :-: |
 | [*International Anti-Corruption Day*][iacd] |
 
-Il [*team* ungherese](team-hu) è stato scelto a partire da una competizione nazionale.
+Il [*team* ungherese][team-hu] è stato scelto a partire da una competizione nazionale.
 
 TODO
 
