@@ -26,7 +26,7 @@ TODO
 
 TODO
 
-## [Servizio nazionale di protezione dell'Ungheria][nvsz] *(NVSZ)*
+## [Servizio nazionale di protezione][nvsz] dell'Ungheria *(NVSZ)*
 
 | 🇬🇧 | 🇭🇺 |
 | :-: | :-: |
@@ -35,6 +35,10 @@ TODO
 TODO
 
 ## [Autorità Nazionale Anticorruzione][anac] (ANAC)
+
+| 🇬🇧 |
+| :-: |
+| *Italian Anticorruption Authority* |
 
 TODO
 
