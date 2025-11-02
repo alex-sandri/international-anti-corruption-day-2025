@@ -160,10 +160,17 @@ The university's main Ludovika Campus in Budapest is a prominent landmark,
 featuring the fully restored historic academy building alongside modern
 educational and sporting facilities.
 
+## [International Anti-Corruption Academy][iaca] (IACA)
+
+<img src="assets/img/iaca.png" alt="Logo" height="100px">
+
+TODO: hungary is part of it, not italy
+
 [^1]: The practical process of creating, strengthening, and professionalizing
       the core institutions that a country needs to function effectively.
 
 [anac]: https://www.anticorruzione.it
+[iaca]: https://www.iaca.int
 [iacd]: https://www.unodc.org/unodc/en/anticorruptionday/index.html
 [nke]: https://en.uni-nke.hu
 [nvsz]: https://www.nvsz.hu
