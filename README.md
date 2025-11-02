@@ -4,18 +4,18 @@
 | :-: |
 | *Giornata internazionale contro la corruzione* |
 
-It's observed annually on **December 9th**.
+On October 31, 2003 the United Nations General Assembly adopted the **United
+Nations Convention against Corruption** (UNCAC). It was later signed on December
+9, 2003 and entered into force on December 14, 2005.
 
-It was established by the United Nations General Assembly on October 31, 2003.
-The date was chosen to mark the anniversary of the adoption of the **United
-Nations Convention against Corruption** (UNCAC).
+It's observed annually on **December 9th** to mark the anniversary of the
+Convention.
 
 The day's purpose is to raise public awareness about corruption and to highlight
 the role of the Convention in combating and preventing it.
 
 This year's theme, as it was last year, is: **Uniting with Youth Against
 Corruption: Shaping Tomorrow's Integrity**.
-
 
 | Where | When |
 | :-: | :-: |
