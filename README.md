@@ -1,18 +1,30 @@
 # [International Anti-Corruption Day][iacd]
 
-| Where | When | Theme |
-| :-: | :-: | :-: |
-| [Ludovika University of Public Service](#ludovika-university-of-public-service-nke) | December 9, 2025 | Uniting with Youth Against Corruption: Shaping Tomorrow's Integrity |
-
 | 🇮🇹 |
 | :-: |
 | *Giornata internazionale contro la corruzione* |
 
+It's observed annually on **December 9th**.
+
+It was established by the United Nations General Assembly on October 31, 2003.
+The date was chosen to mark the anniversary of the adoption of the **United
+Nations Convention against Corruption** (UNCAC).
+
+The day's purpose is to raise public awareness about corruption and to highlight
+the role of the Convention in combating and preventing it.
+
+This year's theme, as it was last year, is: **Uniting with Youth Against
+Corruption: Shaping Tomorrow's Integrity**.
+
+> **EVENT**
+>
+> | Where | When |
+> | :-: | :-: |
+> | [Ludovika University of Public Service](#ludovika-university-of-public-service-nke) | December 9, 2025 |
+> 
 > [!NOTE]
 >
 > The [hungarian team][team-hu] was selected based on a national competition.
-
-TODO
 
 ## [United Nations][un-en] (UN)
 
