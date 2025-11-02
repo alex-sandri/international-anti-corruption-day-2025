@@ -1,54 +1,88 @@
-# Giornata internazionale contro la corruzione
+# [International Anti-Corruption Day][iacd]
 
-| Luogo | Data | Tema |
+| Where | When | Theme |
 | :-: | :-: | :-: |
-| [Università Nazionale dei Servizi Pubblici di Budapest](#università-nazionale-dei-servizi-pubblici-di-budapest) | 9 dicembre 2025 | *Uniting with Youth Against Corruption: Shaping Tomorrow's Integrity* |
+| [Ludovika University of Public Service](#ludovika-university-of-public-service) | December 9, 2025 | Uniting with Youth Against Corruption: Shaping Tomorrow's Integrity |
 
-| 🇬🇧 |
+| 🇮🇹 |
 | :-: |
-| [*International Anti-Corruption Day*][iacd] |
+| *Giornata internazionale contro la corruzione* |
 
-Il [*team* ungherese][team-hu] è stato scelto a partire da una competizione nazionale.
+The [hungarian team][team-hu] was selected based on a national competition.
 
 TODO
 
-## [Organizzazione delle Nazioni Unite][un-it] (ONU)
+## [United Nations][un-en] (UN)
 
-| 🇬🇧 |
+| 🇮🇹 |
 | :-: |
-| [*United Nations*][un-en] |
+| *[Organizzazione delle Nazioni Unite][un-it] (ONU)* |
 
 TODO
 
-### Ufficio delle Nazioni Unite sulla Droga e il Crimine *(UNODC)*
+### [United Nations Office on Drugs and Crime][unodc] (UNODC)
 
-| 🇬🇧 |
+| 🇮🇹 |
 | :-: |
-| [*United Nations Office on Drugs and Crime*][unodc] |
+| *Ufficio delle Nazioni Unite sulla Droga e il Crimine* |
 
 TODO
 
-## [Servizio nazionale di protezione][nvsz] dell'Ungheria *(NVSZ)*
+## Hungary's National Protective Service *(NVSZ)*
 
-| 🇬🇧 | 🇭🇺 |
+| 🇮🇹 | 🇭🇺 |
 | :-: | :-: |
-| *National Protective Service* | *Nemzeti Védelmi Szolgálat* |
+| *Servizio Nazionale di Protezione dell'Ungheria* | [*Nemzeti Védelmi Szolgálat*][nvsz] |
 
-TODO
+| Director General |
+| :- |
+| Pol. Major General <br> dr. Szilvia Tomin |
 
-## [Autorità Nazionale Anticorruzione][anac] (ANAC)
+It's an internal security government agency.
 
-| 🇬🇧 |
+Unlike more traditional ingelligence services, such as counter-espionage, the
+NVSZ operates mainly as an internal affairs and anti-corruption organization. It
+was established in 2011 and operates under the Hungarian Ministry of Interior.
+
+Its key responsibilities include:
+- **anti-corruption**: its main mission is to prevent, detect and investigate
+  crimes of corruption, abuse of office and influence peddling *(traffico di
+  influenze)* committed by government personnel;
+- **internal control**: it acts as an internal control body for a wide range of
+  state agencies, known as "protected organizations";
+- **information gathering**, including covert data collection, specifically
+  targeted at crime prevention within state institutions.
+
+The internal control function is achieved with mechanisms such as:
+1. **integrity testing**, it's authorized to conduct tests to assess reliability
+   and loyalty of public employees and law enforcement members, often using
+   simulated scenarios to test their reaction to corruption attempts;
+1. **lifestyle monitoring**, a proactive monitoring function, in fact the NVSZ
+   is authorized to monitor the lifestyles of officers and public servants to
+   see if they are living "beyond their means".
+
+It also has a **protection** function, meaning it provides physical protection
+and takes action if a member of the "protected staff" (or their family) is
+threatened, attacked, or targeted as a result of performing their official
+duties.
+
+## Italian National Anticorruption Authority *(ANAC)*
+
+| 🇮🇹 |
 | :-: |
-| *Italian Anticorruption Authority* |
+| [*Autorità Nazionale Anticorruzione*][anac] |
 
 TODO
 
-## [Università Nazionale dei Servizi Pubblici][nke] di Budapest
+## Nucleo Speciale Anticorruzione della Guardia di Finanza
 
-| 🇬🇧 | 🇭🇺 |
+TODO
+
+## [Ludovika University of Public Service][nke]
+
+| 🇮🇹 | 🇭🇺 |
 | :-: | :-: |
-| *Ludovika University of Public Service* | *Nemzeti Közszolgálati Egyetem* |
+| *Università Nazionale dei Servizi Pubblici di Budapest* | *Nemzeti Közszolgálati Egyetem* |
 
 TODO
 
