@@ -16,7 +16,7 @@ TODO
 
 ## [United Nations][un-en] (UN)
 
-<img src="assets/img/un.png" alt="Logo" height="100px">
+<img src="assets/img/un.png" alt="Logo" height="80px">
 
 | 🇮🇹 |
 | :-: |
@@ -42,7 +42,7 @@ TODO
 
 ## Hungary's National Protective Service *(NVSZ)*
 
-<img src="assets/img/nvsz.png" alt="Logo" height="100px">
+<img src="assets/img/nvsz.png" alt="Logo" height="80px">
 
 | 🇮🇹 | 🇭🇺 |
 | :-: | :-: |
@@ -82,7 +82,7 @@ duties.
 
 ## Italian National Anticorruption Authority *(ANAC)*
 
-<img src="assets/img/anac.png" alt="Logo" height="100px">
+<img src="assets/img/anac.png" alt="Logo" height="80px">
 
 | 🇮🇹 |
 | :-: |
@@ -90,7 +90,7 @@ duties.
 
 | President |
 | :-: |
-| Giuseppe Busia |
+| Avv. Giuseppe Busia |
 
 It is an independent Italian administrative authority. Its main task is to
 prevent corruption within the public administration, ensure transparency and
@@ -113,15 +113,43 @@ Therefore the key points about it are:
 - **whistleblowing**: it manages reports of wrongdoing (known as whistleblowing)
   from public employees, guaranteeing their confidentiality.
 
-## Nucleo Speciale Anticorruzione della Guardia di Finanza
+## Guardia di Finanza's Special Anti-Corruption Unit
+
+| 🇮🇹 |
+| :-: |
+| *Nucleo Speciale Anticorruzione della Guardia di Finanza* |
 
 | Commander |
 | :-: |
 | Brigadier General Giovanni Salerno |
 
+It's a specialized department of the Guardia di Finanza (GdiF), which is Italy's
+financial police force.
+
+While [ANAC](#italian-national-anticorruption-authority-anac) is an independent
+administrative authority focused primarily on prevention and regulation, the
+GdiF's Special Anti-Corruption Unit is a judicial police body focused on the
+repression of crimes.
+
+Its main tasks are:
+- **complex investigations**: it conducts judicial police investigations focused
+  on serious crimes against the Public Administration, such as corruption,
+  extortion by a public official, embezzlement *(appropriazione indebita)*, and
+  abuse of office;
+- **ANAC's operational arm**: it acts as the primary investigative arm for ANAC.
+  When ANAC, during its administrative monitoring activities, identifies facts
+  that may constitute a crime, it reports them to the Public Prosecutor's Office
+  and relies on the Special Anti-Corruption Unit for the criminal investigation;
+- **public spending oversight**: it carries out checks and investigations into
+  the illicit use of public funds, including both national and EU funds;
+- **collaboration with prosecutors**: it works closely with the Public
+  Prosecutor's offices and the National Anti-Mafia and Anti-Terrorism
+  Directorate *(DNAA)* on the most significant corruption-related
+  investigations.
+
 ## [Ludovika University of Public Service][nke] *(NKE)*
 
-<img src="assets/img/nke.png" alt="Logo" height="100px">
+<img src="assets/img/nke.png" alt="Logo" height="80px">
 
 | 🇮🇹 | 🇭🇺 |
 | :-: | :-: |
@@ -162,7 +190,7 @@ educational and sporting facilities.
 
 ## [International Anti-Corruption Academy][iaca] (IACA)
 
-<img src="assets/img/iaca.png" alt="Logo" height="100px">
+<img src="assets/img/iaca.png" alt="Logo" height="80px">
 
 TODO: hungary is part of it, not italy
 
