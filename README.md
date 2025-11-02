@@ -16,12 +16,11 @@ the role of the Convention in combating and preventing it.
 This year's theme, as it was last year, is: **Uniting with Youth Against
 Corruption: Shaping Tomorrow's Integrity**.
 
-> **EVENT**
->
-> | Where | When |
-> | :-: | :-: |
-> | [Ludovika University of Public Service](#ludovika-university-of-public-service-nke) | December 9, 2025 |
-> 
+
+| Where | When |
+| :-: | :-: |
+| [Ludovika University of Public Service](#ludovika-university-of-public-service-nke) | December 9, 2025 |
+
 > [!NOTE]
 >
 > The [hungarian team][team-hu] was selected based on a national competition.
