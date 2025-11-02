@@ -2,7 +2,7 @@
 
 | Where | When | Theme |
 | :-: | :-: | :-: |
-| [Ludovika University of Public Service](#ludovika-university-of-public-service) | December 9, 2025 | Uniting with Youth Against Corruption: Shaping Tomorrow's Integrity |
+| [Ludovika University of Public Service](#ludovika-university-of-public-service-nke) | December 9, 2025 | Uniting with Youth Against Corruption: Shaping Tomorrow's Integrity |
 
 | 🇮🇹 |
 | :-: |
