@@ -14,10 +14,7 @@ TODO
 
 ## [United Nations][un-en] (UN)
 
-<img
-  src="assets/img/un.svg"
-  alt="Logo"
-  height="100px">
+<img src="assets/img/un.svg" alt="Logo" height="100px">
 
 | 🇮🇹 |
 | :-: |
@@ -35,10 +32,7 @@ TODO
 
 ## Hungary's National Protective Service *(NVSZ)*
 
-<img
-  src="assets/img/nvsz.png"
-  alt="Logo"
-  height="100px">
+<img src="assets/img/nvsz.png" alt="Logo" height="100px">
 
 | 🇮🇹 | 🇭🇺 |
 | :-: | :-: |
@@ -78,10 +72,7 @@ duties.
 
 ## Italian National Anticorruption Authority *(ANAC)*
 
-<img
-  src="assets/img/anac.png"
-  alt="Logo"
-  height="100px">
+<img src="assets/img/anac.png" alt="Logo" height="100px">
 
 | 🇮🇹 |
 | :-: |
@@ -95,10 +86,7 @@ TODO
 
 ## [Ludovika University of Public Service][nke] *(NKE)*
 
-<img
-  src="assets/img/nke.png"
-  alt="Logo"
-  height="100px">
+<img src="assets/img/nke.png" alt="Logo" height="100px">
 
 | 🇮🇹 | 🇭🇺 |
 | :-: | :-: |
