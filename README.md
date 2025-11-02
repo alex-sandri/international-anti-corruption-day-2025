@@ -16,7 +16,7 @@ TODO
 
 ## [United Nations][un-en] (UN)
 
-<img src="assets/img/un.svg" alt="Logo" height="100px">
+<img src="assets/img/un.png" alt="Logo" height="100px">
 
 | 🇮🇹 |
 | :-: |
