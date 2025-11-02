@@ -14,6 +14,12 @@ TODO
 
 ## [United Nations][un-en] (UN)
 
+<img
+  src="https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/images/logo-en.svg"
+  alt="Logo"
+  height="100px"
+  style="background-color: white;">
+
 | 🇮🇹 |
 | :-: |
 | *[Organizzazione delle Nazioni Unite][un-it] (ONU)* |
@@ -29,6 +35,11 @@ TODO
 TODO
 
 ## Hungary's National Protective Service *(NVSZ)*
+
+<img
+  src="https://www.nvsz.hu/images/logoNoSpace.png"
+  alt="Logo"
+  height="100px">
 
 | 🇮🇹 | 🇭🇺 |
 | :-: | :-: |
@@ -68,6 +79,11 @@ duties.
 
 ## Italian National Anticorruption Authority *(ANAC)*
 
+<img
+  src="https://www.anticorruzione.it/o/anac-theme/images/anac.png"
+  alt="Logo"
+  height="100px">
+
 | 🇮🇹 |
 | :-: |
 | [*Autorità Nazionale Anticorruzione*][anac] |
@@ -78,13 +94,48 @@ TODO
 
 TODO
 
-## [Ludovika University of Public Service][nke]
+## [Ludovika University of Public Service][nke] *(NKE)*
+
+<img
+  src="https://en.uni-nke.hu/image/en-uni-nke-hu/NKE%20logo%20angol2.png"
+  alt="Logo"
+  height="100px">
 
 | 🇮🇹 | 🇭🇺 |
 | :-: | :-: |
 | *Università Nazionale dei Servizi Pubblici di Budapest* | *Nemzeti Közszolgálati Egyetem* |
 
-TODO
+It's a specialized, state-run institution and serves as the primary educational
+and research center for public service and state-building[^1].
+
+Its core mission is to educate and train professionals for careers in public
+administration, law enforcement, the military, and international affairs. It
+also has a unique, specialized focus on water sciences.
+
+The university's academic structure is built around its distinct professional
+fields. Its main faculties include:
+- **Faculty of Public Governance and International Studies** (FPGIS): focuses on
+  training civil servants and diplomats. Programs often cover international
+  relations, public management, and european studies;
+- **Faculty of Military Sciences and Officer Training** (FMSOT): educates the
+  next generation of professional officers for the Hungarian Defence Forces;
+- **Faculty of Law Enforcement** (FLE): provides training for police officers
+  and other law enforcement personnel, with specializations in areas like
+  criminal investigation, economic crime, and border policing;
+- **Faculty of Water Sciences** (FWS): a unique faculty (located in Baja,
+  Hungary) dedicated to water diplomacy, water resource management, and civil
+  engineering related to water.
+
+While the modern university was officially founded in 2012 (through the merger
+of several existing institutions), it traces its heritage to the Royal Hungarian
+Ludovika Academy. This original military academy was founded in 1808.
+
+The university's main Ludovika Campus in Budapest is a prominent landmark,
+featuring the fully restored historic academy building alongside modern
+educational and sporting facilities.
+
+[^1]: The practical process of creating, strengthening, and professionalizing
+      the core institutions that a country needs to function effectively.
 
 [anac]: https://www.anticorruzione.it
 [iacd]: https://www.unodc.org/unodc/en/anticorruptionday/index.html
