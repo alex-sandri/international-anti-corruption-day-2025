@@ -8,7 +8,9 @@
 | :-: |
 | *Giornata internazionale contro la corruzione* |
 
-The [hungarian team][team-hu] was selected based on a national competition.
+> [!NOTE]
+>
+> The [hungarian team][team-hu] was selected based on a national competition.
 
 TODO
 
@@ -20,6 +22,10 @@ TODO
 | :-: |
 | *[Organizzazione delle Nazioni Unite][un-it] (ONU)* |
 
+| Secretary-General |
+| :-: |
+| António Guterres |
+
 TODO
 
 ### [United Nations Office on Drugs and Crime][unodc] (UNODC)
@@ -27,6 +33,10 @@ TODO
 | 🇮🇹 |
 | :-: |
 | *Ufficio delle Nazioni Unite sulla Droga e il Crimine* |
+
+| Executive Director |
+| :-: |
+| Ghada Waly |
 
 TODO
 
@@ -39,8 +49,8 @@ TODO
 | *Servizio Nazionale di Protezione dell'Ungheria* | [*Nemzeti Védelmi Szolgálat*][nvsz] |
 
 | Director General |
-| :- |
-| Pol. Major General <br> dr. Szilvia Tomin |
+| :-: |
+| Pol. Major General Dr. Szilvia Tomin |
 
 It's an internal security government agency.
 
@@ -78,11 +88,36 @@ duties.
 | :-: |
 | [*Autorità Nazionale Anticorruzione*][anac] |
 
-TODO
+| President |
+| :-: |
+| Giuseppe Busia |
+
+It is an independent Italian administrative authority. Its main task is to
+prevent corruption within the public administration, ensure transparency and
+impartiality of public officials, and supervise the proper execution of public
+contracts.
+
+Therefore the key points about it are:
+- **corruption prevention**: it develops strategies and National Anti-Corruption
+  Plans that individual public administrations must adopt;
+- **transparency**: it ensures that public administrations publish data and
+  documents (such as budgets, executive salaries, tender procedures *(procedure
+  di gara)*) to make them accessible to citizens;
+- **public contracts**: it oversees the entire public procurement sector to
+  ensure that procedures are legal, fair, and not subject to criminal
+  infiltration or corruption. It manages the National Database of Public
+  Contracts *(BDNCP)*;
+- **powers**: it has regulatory powers (issuing guidelines), supervisory powers,
+  and the power to impose sanctions in cases of violations of transparency or
+  procurement rules;
+- **whistleblowing**: it manages reports of wrongdoing (known as whistleblowing)
+  from public employees, guaranteeing their confidentiality.
 
 ## Nucleo Speciale Anticorruzione della Guardia di Finanza
 
-TODO
+| Commander |
+| :-: |
+| Brigadier General Giovanni Salerno |
 
 ## [Ludovika University of Public Service][nke] *(NKE)*
 
@@ -91,6 +126,10 @@ TODO
 | 🇮🇹 | 🇭🇺 |
 | :-: | :-: |
 | *Università Nazionale dei Servizi Pubblici di Budapest* | *Nemzeti Közszolgálati Egyetem* |
+
+| Rector |
+| :-: |
+| Dr. Gergely Deli |
 
 It's a specialized, state-run institution and serves as the primary educational
 and research center for public service and state-building[^1].
