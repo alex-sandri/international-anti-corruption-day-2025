@@ -147,6 +147,9 @@ Its main tasks are:
   Directorate *(DNAA)* on the most significant corruption-related
   investigations.
 
+Its relationship with ANAC is detailed in a speciale *memorandum* of
+understanding.
+
 ## [Ludovika University of Public Service][nke] *(NKE)*
 
 <img src="assets/img/nke.png" alt="Logo" height="80px">
