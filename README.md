@@ -6,7 +6,8 @@
 
 On October 31, 2003 the United Nations General Assembly adopted the **United
 Nations Convention against Corruption** (UNCAC). It was later signed on December
-9, 2003 and entered into force on December 14, 2005.
+9, 2003 and entered into force on December 14, 2005.\
+Italy ratified it with the *Law 116/2009*.
 
 It's observed annually on **December 9th** to mark the anniversary of the
 Convention.
