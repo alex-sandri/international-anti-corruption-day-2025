@@ -4,13 +4,8 @@
 | :-: |
 | *Giornata internazionale contro la corruzione* |
 
-On October 31, 2003 the United Nations General Assembly adopted the **United
-Nations Convention against Corruption** (UNCAC). It was later signed on December
-9, 2003 and entered into force on December 14, 2005.\
-Italy ratified it with the *Law 116/2009*.
-
 It's observed annually on **December 9th** to mark the anniversary of the
-Convention.
+[Convention](#united-nations-convention-against-corruption-uncac).
 
 The day's purpose is to raise public awareness about corruption and to highlight
 the role of the Convention in combating and preventing it.
@@ -51,6 +46,61 @@ TODO
 | Ghada Waly |
 
 TODO
+
+#### [United Nations Convention Against Corruption][uncac] (UNCAC)
+
+It's the only legally binding, universal anti-corruption treaty. It provides a
+comprehensive framework for member states to prevent and combat corruption in
+both the public and private sectors.
+
+It was adopted on October 31, 2003 by the United Nations General Assembly. It
+was later signed on December 9, 2003 and entered into force on December 14,
+2005\. Italy ratified it with the *Law 116/2009*.
+
+> This Convention shall be open to all States for signature from 9 to 11
+> December 2003 in **Merida, Mexico**, and thereafter at United Nations
+> Headquarters in **New York** until 9 December 2005.
+>
+> <small><i>~ art. 67, par. 1 UNCAC</i></small>
+
+It's subdiveded into eight chapters:
+1. **General provisions**;
+1. **Preventive measures**:
+   - *"Preventive anti-corruption body or bodies" (art. 6)*;
+   - *"Codes of conduct for public officials" (art. 8)*;
+   - *"Public procurement and management of public finances" (art. 9)*.
+1. **Criminalization and law enforcement**:
+   - *"Bribery of national public officials" (art. 15)*;
+   - *"Embezzlement, misappropriation or other diversion of property by a public
+     official" (art. 17)*;
+   - *"Trading in influence" (art. 18)*;
+   - *"Abuse of functions" (art. 19)*;
+   - *"Illicit enrichment" (art. 20)*;
+   - *"Bribery of national public officials" (art. 15)*.
+1. **International cooperation**:
+   - *"Extradition" (art. 44)*;
+   - *"Mutual legal assistance" (art. 46)*;
+   - *"Law enforcement cooperation" (art. 48)*.
+1. **Asset recovery**, it establishes the principle that **stolen assets should
+   be returned to their country of origin**;
+1. **Technical assistance and information exchange**, this chapter ensures that
+   countries, particularly developing nations, receive the support they need to
+   implement the Convention. This includes:
+   - providing training and technical assistance for law enforcement, judiciary,
+     and anti-corruption agencies;
+   - sharing best practices, research, and information on how to effectively
+     combat corruption.
+1. **Mechanisms for implementation**:
+   - *"Conference of the States Parties to the Convention" (art. 63)*, its main
+     goal is to improve the capacity of countries to implement the Convention
+     and to promote cooperation among them.
+1. **Final provisions**.
+
+It has been ratified by most UN member states, with 192 parties, giving it
+near-universal adherence.
+
+The UN Office on Drugs and Crime (UNODC) in Vienna serves as the secretariat for
+the Convention.
 
 ## Hungary's National Protective Service *(NVSZ)*
 
@@ -146,8 +196,8 @@ repression of crimes.
 Its main tasks are:
 - **complex investigations**: it conducts judicial police investigations focused
   on serious crimes against the Public Administration, such as corruption,
-  extortion by a public official, embezzlement *(appropriazione indebita)*, and
-  abuse of office;
+  extortion by a public official, embezzlement[^1] *(appropriazione indebita)*,
+  and abuse of office;
 - **ANAC's operational arm**: it acts as the primary investigative arm for ANAC.
   When ANAC, during its administrative monitoring activities, identifies facts
   that may constitute a crime, it reports them to the Public Prosecutor's Office
@@ -175,7 +225,7 @@ understanding.
 | Dr. Gergely Deli |
 
 It's a specialized, state-run institution and serves as the primary educational
-and research center for public service and state-building[^1].
+and research center for public service and state-building[^2].
 
 Its core mission is to educate and train professionals for careers in public
 administration, law enforcement, the military, and international affairs. It
@@ -209,7 +259,13 @@ educational and sporting facilities.
 
 TODO: hungary is part of it, not italy
 
-[^1]: The practical process of creating, strengthening, and professionalizing
+[^1]: Its the misappropriation when the property or funds involved have been
+      lawfully entrusted to the embezzler. In circumstances where the funds are
+      accessible to, but not entrusted to, the perpetrator, it is not
+      embezzlement but can still be considered larceny, misappropriation,
+      misapplication, or some other similar term.
+
+[^2]: The practical process of creating, strengthening, and professionalizing
       the core institutions that a country needs to function effectively.
 
 [anac]: https://www.anticorruzione.it
@@ -220,4 +276,5 @@ TODO: hungary is part of it, not italy
 [team-hu]: https://corruptionprevention.gov.hu/national-law-enforcement-competition-in-the-spirit-of-corruption-prevention
 [un-en]: https://www.un.org/en/
 [un-it]: https://unric.org/it/
+[uncac]: https://www.unodc.org/documents/brussels/UN_Convention_Against_Corruption.pdf
 [unodc]: https://www.unodc.org
