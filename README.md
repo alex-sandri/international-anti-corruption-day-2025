@@ -75,8 +75,7 @@ It's subdiveded into eight chapters:
      official" (art. 17)*;
    - *"Trading in influence" (art. 18)*;
    - *"Abuse of functions" (art. 19)*;
-   - *"Illicit enrichment" (art. 20)*;
-   - *"Bribery of national public officials" (art. 15)*.
+   - *"Illicit enrichment" (art. 20)*.
 1. **International cooperation**:
    - *"Extradition" (art. 44)*;
    - *"Mutual legal assistance" (art. 46)*;
