@@ -209,7 +209,7 @@ Its main tasks are:
   investigations.
 
 Its relationship with ANAC is detailed in a special *memorandum* of
-understanding.
+understanding *(protocollo d'intesa)*.
 
 ## [Ludovika University of Public Service][nke] *(NKE)*
 
@@ -256,7 +256,21 @@ educational and sporting facilities.
 
 <img src="assets/img/iaca.png" alt="Logo" height="80px">
 
-TODO: hungary is part of it, not italy
+## [Group of States against Corruption][greco] *(GRECO)*
+
+<img src="assets/img/greco.png" alt="Logo" height="80px">
+
+| 🇮🇹 | 🇫🇷 |
+| :-: | :-: |
+| *Gruppo di Stati contro la corruzione* | *Groupe d'Etats contre la corruption* |
+
+TODO
+
+## [Transparency International][ti]
+
+<img src="assets/img/ti.png" alt="Logo" height="80px">
+
+TODO
 
 [^1]: Its the misappropriation when the property or funds involved have been
       lawfully entrusted to the embezzler. In circumstances where the funds are
@@ -268,11 +282,13 @@ TODO: hungary is part of it, not italy
       the core institutions that a country needs to function effectively.
 
 [anac]: https://www.anticorruzione.it
+[greco]: https://www.coe.int/en/web/greco/home
 [iaca]: https://www.iaca.int
 [iacd]: https://www.unodc.org/unodc/en/anticorruptionday/index.html
 [nke]: https://en.uni-nke.hu
 [nvsz]: https://www.nvsz.hu
 [team-hu]: https://corruptionprevention.gov.hu/national-law-enforcement-competition-in-the-spirit-of-corruption-prevention
+[ti]: https://www.transparency.org/en
 [un-en]: https://www.un.org/en/
 [un-it]: https://unric.org/it/
 [uncac]: https://www.unodc.org/documents/brussels/UN_Convention_Against_Corruption.pdf
