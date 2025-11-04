@@ -397,6 +397,16 @@ TODO
 
 TODO
 
+#### [Anti-Corruption Task Force][kemcs-en] *(KEMCS)*
+
+<img src="assets/img/kemcs.png" alt="Logo" height="80px">
+
+| 🇭🇺 |
+| :-: |
+| *Korrupcióellenes Munkacsoport* |
+
+TODO
+
 [^1]: Its the misappropriation when the property or funds involved have been
       lawfully entrusted to the embezzler. In circumstances where the funds are
       accessible to, but not entrusted to, the perpetrator, it is not
@@ -412,6 +422,7 @@ TODO
 [iaaca]: https://www.iaaca.net
 [iaca]: https://www.iaca.int
 [iacd]: https://www.unodc.org/unodc/en/anticorruptionday/index.html
+[kemcs-en]: https://kemcs.hu/en/
 [nke]: https://en.uni-nke.hu
 [nvsz]: https://www.nvsz.hu
 [team-hu]: https://corruptionprevention.gov.hu/national-law-enforcement-competition-in-the-spirit-of-corruption-prevention
