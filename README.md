@@ -312,7 +312,16 @@ IACA's work is centered around three main **pillars**:
 | :-: | :-: |
 | *Gruppo di Stati contro la corruzione* | *Groupe d'Etats contre la corruption* |
 
-TODO
+It was established in 1999 by the **Council of Europe** to monitor States'
+compliance with the organisation's anti-corruption standards.
+
+GRECO's objective is to improve the capacity of its members to fight corruption
+by monitoring their compliance with Council of Europe anti-corruption standards
+through a dynamic process of mutual evaluation and peer pressure. It helps to
+identify deficiencies in national anti-corruption policies, prompting the
+necessary legislative, institutional and practical reforms. GRECO also provides
+a platform for the sharing of best practice in the prevention and detection of
+corruption.
 
 ## [Transparency International][ti]
 
