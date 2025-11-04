@@ -327,7 +327,59 @@ corruption.
 
 <img src="assets/img/ti.png" alt="Logo" height="80px">
 
-TODO
+It's a global non-governmental organization (NGO) dedicated to combating
+corruption. It is one of the world's most prominent anti-corruption
+organizations.
+
+Founded in 1993 and headquartered in Berlin, Germany, it operates as a global
+movement with a network of independent national chapters in over 100 countries.
+
+> **Vision**
+>
+> To see a world in which government, politics, business, civil society, and the
+> daily lives of people are free of corruption.
+
+> **Mission**
+>
+> To stop corruption and promote transparency, accountability, and integrity at
+> all levels and across all sectors of society.
+
+It does not investigate or expose individual cases of corruption. Instead, it
+focuses on systemic issues and long-term solutions. Its main activities include:
+- **advocacy**: pushing for national and international anti-corruption reforms,
+  laws, and conventions (such as the
+  [UNCAC](#united-nations-convention-against-corruption-uncac));
+- **research and publications**: producing influential reports, indexes, and
+  tools that measure and highlight corruption;
+- **building coalitions**: working with governments, businesses, and other civil
+  society groups to implement anti-corruption measures;
+- **empowering citizens**: running Advocacy and Legal Advice Centres (ALACs) in
+  many countries, which provide free and confidential legal advice to witnesses
+  and victims of corruption.
+
+It's best known for its two main annual reports:
+1. **Corruption Perceptions Index** (CPI): this is TI's flagship publication. It
+   is one of the most widely used indicators of public sector corruption
+   worldwide.
+
+   It ranks 180 countries and territories by their perceived levels of public
+   sector corruption.
+
+   It is a "composite index" that aggregates data from numerous surveys and
+   assessments of corruption, as **perceived by business executives and country
+   experts**.
+
+   It uses a scale of 0 to 100, where 100 is "very clean" and 0 is
+   "highly corrupt";
+2. **Global Corruption Barometer** (GCB), unlike the CPI, which relies on expert
+   opinion, it **surveys ordinary citizens**.
+
+   It asks for citizens' direct, personal experiences with corruption in their
+   daily lives (e.g., "Have you paid a bribe in the last 12 months?").
+
+   It is the world's largest public opinion survey on corruption, providing a
+   "ground-level" view of how corruption affects people and which institutions
+   they perceive as most corrupt.
 
 ## [International Association of Anti-Corruption Authorities][iaaca] (IAACA)
 
