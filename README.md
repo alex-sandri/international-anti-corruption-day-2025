@@ -256,6 +256,54 @@ educational and sporting facilities.
 
 <img src="assets/img/iaca.png" alt="Logo" height="80px">
 
+| Hungary 🇭🇺 | Italy 🇮🇹 |
+| :-: | :-: |
+| &#9989; | &#10060; |
+
+| Dean and Executive Secretary |
+| :-: |
+| Professor Slagjana Taseva |
+
+It's based in Laxenburg, Austria, just south of Vienna.
+
+It was launched in 2010 and became a formal international organization on March
+8, 2011.
+
+The Academy was initiated by a partnership including the [United Nations Office
+on Drugs and Crime](#united-nations-office-on-drugs-and-crime-unodc) (UNODC),
+INTERPOL, the European Anti-Fraud Office (OLAF), and the Republic of Austria.
+
+Its constituency includes over 70 UN Member States and several international
+organizations.
+
+It's an international, intergovernmental organization and a post-secondary
+educational institution. It is the first global institution of its kind with a
+mandate dedicated exclusively to a comprehensive approach to fighting
+corruption.
+
+IACA's primary mission is to overcome the current shortcomings in
+anti-corruption knowledge and practice. It aims to empower professionals and
+practitioners from all sectors to effectively implement the
+[UNCAC](#united-nations-convention-against-corruption-uncac).
+
+IACA's work is centered around three main **pillars**:
+1. **academic degree programmes**, it offers postgraduate programs, including a
+   Master in Anti-Corruption Studies (MACS) and an International Master in
+   Anti-Corruption Compliance (IMACC). These programs are designed for
+   professionals from the public and private sectors, as well as from civil
+   society and academia;
+1. **professional training**:
+   - tailor-made trainings: customized programs for specific organizations,
+     governments, or companies;
+   - open trainings: standardized courses and workshops on various
+     anti-corruption and compliance topics;
+   - online courses: A mix of instructor-led and self-paced courses available to
+     a global audience.
+1. **research and networking**, the Academy serves as a think-tank, conducting
+   research on corruption and compliance trends. It hosts international
+   conferences, webinars, and events, creating a global network for
+   anti-corruption experts to share best practices and challenges.
+
 ## [Group of States against Corruption][greco] *(GRECO)*
 
 <img src="assets/img/greco.png" alt="Logo" height="80px">
