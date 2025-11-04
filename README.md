@@ -256,9 +256,9 @@ educational and sporting facilities.
 
 <img src="assets/img/iaca.png" alt="Logo" height="80px">
 
-| Hungary 🇭🇺 | Italy 🇮🇹 |
-| :-: | :-: |
-| &#9989; | &#10060; |
+| Hungary 🇭🇺 | Italy 🇮🇹 | Croatia 🇭🇷 | Germany 🇩🇪 | Romania 🇷🇴 |
+| :-: | :-: | :-: | :-: | :-: |
+| &#9989; | &#10060; | &#9989; | &#10060; | &#9989; |
 
 | Dean and Executive Secretary |
 | :-: |
