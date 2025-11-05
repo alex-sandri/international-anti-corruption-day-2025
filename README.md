@@ -443,7 +443,24 @@ Force](#anti-corruption-task-force-kemcs).
 | :-: |
 | *Korrupcióellenes Munkacsoport* |
 
-TODO
+This is a consultative body chaired by the President of the [Integrity
+Authority](#hungarys-integrity-authority), composed of 21 members—half from
+government and state institutions, and half from non-governmental civil society,
+including anti-corruption watchdogs like [Transparency
+International](#transparency-international) Hungary.
+
+It was established in December 2022.
+
+Its official role is not to investigate or prosecute specific cases of
+corruption. Instead, it operates for an indefinite time, carrying out
+analytical, proposal, opinion-forming, and decision-preparation tasks.
+
+Its main tasks include:
+- analyzing the government's existing anti-corruption measures;
+- developing proposals and recommendations to improve the prevention, detection,
+  and sanctioning of corruption;
+- preparing an annual report that assesses the state of corruption and the
+  effectiveness of anti-corruption policies in Hungary.
 
 [^1]: Its the misappropriation when the property or funds involved have been
       lawfully entrusted to the embezzler. In circumstances where the funds are
