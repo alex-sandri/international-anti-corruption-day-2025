@@ -151,7 +151,7 @@ duties.
 
 | President |
 | :-: |
-| Avv. Giuseppe Busia |
+| Dr. Giuseppe Busia |
 
 It is an independent Italian administrative authority. Its main task is to
 prevent corruption within the public administration, ensure transparency and
@@ -385,9 +385,56 @@ It's best known for its two main annual reports:
 
 <img src="assets/img/iaaca.jpg" alt="Logo" height="80px">
 
-TODO
+| President | Vice President (1 of 3) |
+| :-: | :-: |
+| Mr. Danny Y M Woo | Dr. Giuseppe Busia |
 
-### Hungary's [Integrity Authority][ia]
+| 🇮🇹 | 🇭🇺 |
+| :-: | :-: |
+| [ANAC](#italian-national-anticorruption-authority-anac) | [Integrity Authority](#hungarys-integrity-authority) |
+
+It's an independent, non-political global organization for the agencies and
+officials responsible for fighting corruption.
+
+Established in 2006 in Beijing, China, the IAACA serves as a global network for
+anti-corruption authorities (ACAs) worldwide.
+
+The primary objective of the IAACA is to promote the effective implementation of
+the [UNCAC](#united-nations-convention-against-corruption-uncac).
+
+It functions as a central platform for anti-corruption authorities to
+collaborate, share best practices, and support each other in the global fight
+against corruption.
+
+Unlike [Transparency International](#transparency-international) (an NGO) or
+[GRECO](#group-of-states-against-corruption-greco) (a regional monitoring body),
+the IAACA is a professional association for the anti-corruption bodies
+themselves. Its main activities include:
+- **promoting international cooperation**: facilitating direct cooperation
+  between member agencies on practical matters, such as mutual legal assistance,
+  asset recovery, and extradition;
+- **exchanging expertise**: organizing annual conferences, general meetings, and
+  specialized training workshops where prosecutors, investigators, and
+  prevention specialists can share successful strategies and technical
+  expertise;
+- **capacity building**: assisting in the development and strengthening of
+  anti-corruption authorities, particularly in developing countries;
+- **networking**: creating a global network of anti-corruption professionals to
+  foster direct and informal communication.
+
+IAACA's membership is not composed of countries (like GRECO) but of the national
+anti-corruption authorities (ACAs) themselves.
+
+It brings together institutions responsible for investigation, prosecution, and
+prevention of corruption from around the world.
+
+The association has over 170 member agencies.
+
+The Presidency and Secretariat are currently held by the Independent Commission
+Against Corruption (ICAC) of Hong Kong SAR (Special Administrative Region),
+China.
+
+## Hungary's [Integrity Authority][ia]
 
 <img src="assets/img/ia.png" alt="Logo" height="80px">
 
@@ -435,7 +482,7 @@ Its main tasks include:
 The Authority's work is supported by an [Anti-Corruption Task
 Force](#anti-corruption-task-force-kemcs).
 
-#### [Anti-Corruption Task Force][kemcs-en] *(KEMCS)*
+### [Anti-Corruption Task Force][kemcs-en] *(KEMCS)*
 
 <img src="assets/img/kemcs.png" alt="Logo" height="80px">
 
