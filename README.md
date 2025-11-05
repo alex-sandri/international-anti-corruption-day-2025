@@ -395,7 +395,45 @@ TODO
 | :-: |
 | *Integritás Hatóság* |
 
-TODO
+It's an autonomous state administrative body established in 2022 with the
+specific mandate to oversee the use of European Union funds in the country.
+
+Its creation was a central part of a package of anti-corruption reforms demanded
+by the European Commission. It was a key "remedial measure" intended to address
+systemic rule-of-law *(stato di diritto)* and corruption concerns that had led
+the EU to freeze billions of euros in cohesion and recovery funds designated for
+Hungary.
+
+The Authority officially began its operations on November 19, 2022.
+
+The Integrity Authority's mission is not to act as a general, all-purpose
+anti-corruption agency. Its mandate is strictly focused on protecting the EU's
+financial interests.
+
+Its main tasks include:
+- **monitoring EU funds**: overseeing all planned, ongoing, or completed
+  projects that receive partial or full funding from the European Union;
+- **prevention and detection**: working to prevent, detect, and correct
+  instances of fraud, conflicts of interest, corruption, and other legal
+  irregularities related to the management of these funds;
+- **conducting investigations**: it can initiate investigations based on its own
+  findings or on reports and complaints from any person, including anonymous
+  whistleblowers;
+- **intervention powers**: the Authority has the power to:
+  - instruct contracting authorities (like government agencies) to suspend
+    public procurement procedures if it suspects wrongdoing;
+  - request information and data from other state bodies;
+  - issue binding recommendations and, if they are not followed, refer the
+    matter to a court.
+- **reporting**: it publishes annual integrity reports and risk assessments of
+  Hungary's public procurement system;
+- **referring cases**: it can refer suspected criminal cases to Hungarian law
+  enforcement, the European Anti-Fraud Office (OLAF), or the European Public
+  Prosecutor's Office (EPPO) (which Hungary is not a member of, but the
+  Authority can cooperate with).
+
+The Authority's work is supported by an [Anti-Corruption Task
+Force](#anti-corruption-task-force-kemcs).
 
 #### [Anti-Corruption Task Force][kemcs-en] *(KEMCS)*
 
