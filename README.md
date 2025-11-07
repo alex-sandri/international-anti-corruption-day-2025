@@ -558,7 +558,7 @@ Its main tasks include:
 - preparing an annual report that assesses the state of corruption and the
   effectiveness of anti-corruption policies in Hungary.
 
-## Organisation for Economic Co-operation and Development (OECD)
+## [Organisation for Economic Co-operation and Development][oecd] (OECD)
 
 <img src="assets/img/oecd.png" alt="Logo" height="80px">
 
@@ -568,11 +568,11 @@ Its main tasks include:
 
 TODO
 
-### Convention on Combating Bribery of Foreign Public Officials in International Business Transactions
+### [Convention on Combating Bribery of Foreign Public Officials in International Business Transactions][oecd-bribery-convention]
 
 TODO
 
-## European Anti-Fraud Office *(OLAF)*
+## [European Anti-Fraud Office][olaf] *(OLAF)*
 
 <img src="assets/img/olaf.png" alt="Logo" height="80px">
 
@@ -600,6 +600,9 @@ TODO
 [kemcs-en]: https://kemcs.hu/en/
 [nke]: https://en.uni-nke.hu
 [nvsz]: https://www.nvsz.hu
+[oecd]: https://www.oecd.org
+[oecd-bribery-convention]: https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0293
+[olaf]: https://anti-fraud.ec.europa.eu/index_en
 [team-hu]: https://corruptionprevention.gov.hu/national-law-enforcement-competition-in-the-spirit-of-corruption-prevention
 [ti]: https://www.transparency.org/en
 [un-en]: https://www.un.org/en/
