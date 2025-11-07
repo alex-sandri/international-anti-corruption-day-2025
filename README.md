@@ -45,7 +45,55 @@ TODO
 | :-: |
 | Ghada Waly |
 
-TODO
+It's a United Nations office dedicated to addressing the interrelated issues of
+illicit drugs, transnational organized crime, corruption, and terrorism. It
+serves as the global leader in these areas, mandated to assist Member States in
+making the world safer from these threats.
+
+It was established in 1997.
+
+Its headquarters are in Vienna, Austria, and it operates through an extensive
+network of field offices worldwide.
+
+The mission of the UNODC is to contribute to global peace and security, human
+rights, and development. It achieves this through three main pillars of work:
+1. research and analysis: it conducts extensive global research to monitor and
+   analyze drug and crime trends. Its most famous publication is the annual
+   World Drug Report, which provides a comprehensive assessment of the
+   international drug problem. This research helps to identify emerging threats
+   and provide an evidence base for policy;
+1. normative work (policy and treaties): it works to help countries ratify and
+   implement key international treaties. It serves as the guardian of crucial UN
+   conventions, including:
+   - the UN Convention against Transnational Organized Crime (UNTOC) and its
+     protocols (on human trafficking, migrant smuggling, and firearms);
+   - the [UN Convention against
+     Corruption](#united-nations-convention-against-corruption-uncac) (UNCAC);
+   - the three international drug control conventions.
+1. technical cooperation (field operations): it provides practical,
+   on-the-ground technical assistance and capacity-building to Member States.
+   This includes:
+   - training police officers, border guards, prosecutors, and judges;
+   - helping to reform justice and prison systems;
+   - supporting drug use prevention, treatment, and care programs;
+   - developing sustainable alternative livelihoods for farmers who cultivate
+     illicit crops.
+
+The UNODC focuses its efforts on several key areas:
+- **countering organized crime**: this includes fighting human trafficking
+  (promoted through its Blue Heart Campaign), migrant smuggling, wildlife and
+  forest crime, and firearms trafficking;
+- **addressing the world drug problem**: this involves efforts in drug use
+  prevention and treatment, as well as countering illicit drug trafficking and
+  production;
+- **fighting corruption**: it's the lead UN entity for anti-corruption, helping
+  countries implement the [UN Convention against
+  Corruption](#united-nations-convention-against-corruption-uncac) (UNCAC);
+- **terrorism prevention**: it works to strengthen the capacity of national
+  criminal justice systems to prevent and counter terrorism in compliance with
+  the rule of law;
+- **crime prevention and criminal justice**: this area focuses on improving
+  access to justice, promoting prison reform, and preventing violence.
 
 #### [United Nations Convention Against Corruption][uncac] (UNCAC)
 
@@ -98,8 +146,9 @@ It's subdiveded into eight chapters:
 It has been ratified by most UN member states, with 192 parties, giving it
 near-universal adherence.
 
-The UN Office on Drugs and Crime (UNODC) in Vienna serves as the secretariat for
-the Convention.
+The [UN Office on Drugs and
+Crime](#united-nations-office-on-drugs-and-crime-unodc) (UNODC) serves as the
+secretariat for the Convention.
 
 ## Hungary's National Protective Service *(NVSZ)*
 
