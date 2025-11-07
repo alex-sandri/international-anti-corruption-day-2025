@@ -580,7 +580,20 @@ TODO
 | :-: | :-: |
 | *Ufficio europeo per la lotta antifrode* | *Office européen de Lutte Anti-Fraude* |
 
-TODO
+The European Union budget finances a wide range of programmes and projects which
+improve the lives of citizens across the EU and beyond. The improper use of
+funds provided by the EU budget or the evasion of the taxes, duties and levies,
+which fund the EU budget directly harms European citizens and prejudices the
+entire European project.
+
+OLAF fulfils its mission by:
+- **carrying out independent investigations into fraud and corruption involving
+  EU funds**, so as to ensure that all EU taxpayers' money reaches projects that
+  can create jobs and growth in Europe;
+- contributing to strengthening citizens' trust in the EU Institutions by
+  investigating serious misconduct by EU staff and members of the EU
+  Institutions;
+- developing a sound EU anti-fraud policy.
 
 [^1]: Its the misappropriation when the property or funds involved have been
       lawfully entrusted to the embezzler. In circumstances where the funds are
