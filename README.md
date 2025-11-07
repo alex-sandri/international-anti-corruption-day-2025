@@ -509,6 +509,30 @@ Its main tasks include:
 - preparing an annual report that assesses the state of corruption and the
   effectiveness of anti-corruption policies in Hungary.
 
+## Organisation for Economic Co-operation and Development (OECD)
+
+<img src="assets/img/oecd.png" alt="Logo" height="80px">
+
+| 🇮🇹 |
+| :-: |
+| *Organizzazione per la cooperazione e lo sviluppo economico (OCSE)* |
+
+TODO
+
+### Convention on Combating Bribery of Foreign Public Officials in International Business Transactions
+
+TODO
+
+## European Anti-Fraud Office *(OLAF)*
+
+<img src="assets/img/olaf.png" alt="Logo" height="80px">
+
+| 🇮🇹 | 🇫🇷 |
+| :-: | :-: |
+| *Ufficio europeo per la lotta antifrode* | *Office européen de Lutte Anti-Fraude* |
+
+TODO
+
 [^1]: Its the misappropriation when the property or funds involved have been
       lawfully entrusted to the embezzler. In circumstances where the funds are
       accessible to, but not entrusted to, the perpetrator, it is not
