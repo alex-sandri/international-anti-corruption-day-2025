@@ -643,7 +643,41 @@ Its main tasks include:
 | :-: |
 | *Organizzazione per la cooperazione e lo sviluppo economico (OCSE)* |
 
-TODO
+It's an international organization headquartered in Paris, France. It was
+founded in 1961 to stimulate economic progress and world trade.
+
+Its core mission is to shape policies that foster prosperity, equality,
+opportunity, and well-being for all. It is often described as a "think tank" or
+"club" for its 38 member countries, which are typically democracies with
+market-based economies.
+
+The OECD originated from the Organisation for European Economic Co-operation
+(OEEC), which was formed in 1948 to help administer the Marshall Plan for the
+reconstruction of Europe after World War II.
+
+The OECD's primary role is to provide a forum where governments can work
+together to share experiences, seek solutions to common problems, and develop
+global standards.
+
+Its main functions include:
+- **policy analysis and advice**: it collects data, conducts research, and
+  analyzes economic and social trends. Based on this evidence, it provides
+  policy recommendations to its member countries on a vast range of topics;
+- **setting international standards**: the organization develops agreed-upon
+  international standards and guidelines to promote best practices. This
+  includes work on issues like:
+  - international tax (e.g., combating tax evasion and base erosion);
+  - corporate governance;
+  - anti-bribery and corruption;
+  - environmental protection;
+  - education (e.g., the PISA test);
+  - artificial intelligence.
+- **"peer reviews"**: it facilitates a process where one country's policies are
+  reviewed by other member countries. This "peer pressure" encourages
+  governments to improve their policies and learn from one another's successes
+  and failures;
+- **publishing reports**: it is a well-known publisher of economic data,
+  forecasts, and statistical reports, such as its biannual Economic Outlook.
 
 ### [Convention on Combating Bribery of Foreign Public Officials in International Business Transactions][oecd-bribery-convention]
 
