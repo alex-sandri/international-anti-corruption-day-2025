@@ -69,19 +69,17 @@ The United Nations' activities are focused on four main pillars:
    These goals are a call to action to end poverty, improve health and
    education, reduce inequality, and combat climate change by 2030.
 
-   > [!NOTE]
-   >
-   > Combating corruption is part of the 16th SDG **"Peace, Justice and Strong
-   > Institutions"**, with some targets explicitly aiming at its reduction:
-   > - `4` «By 2030, significantly reduce illicit financial and arms flows,
-   >   strengthen the recovery and return of stolen assets and combat all forms
-   >   of organized crime»;
-   > - `5` «Substantially reduce corruption and bribery in all their forms»;
-   > - `6` «Develop effective, accountable and transparent institutions at all
-   >   levels»;
-   > - `10` «Ensure public access to information and protect fundamental
-   >   freedoms, in accordance with national legislation and international
-   >   agreements».
+   Combating corruption is part of the 16th SDG **"Peace, Justice and Strong
+   Institutions"**, with some targets explicitly aiming at its reduction:
+   - `4` «By 2030, significantly reduce illicit financial and arms flows,
+     strengthen the recovery and return of stolen assets and combat all forms
+     of organized crime»;
+   - `5` «Substantially reduce corruption and bribery in all their forms»;
+   - `6` «Develop effective, accountable and transparent institutions at all
+     levels»;
+   - `10` «Ensure public access to information and protect fundamental
+     freedoms, in accordance with national legislation and international
+     agreements».
 
 The United Nations is structured around six principal organs, each with a
 distinct role:
