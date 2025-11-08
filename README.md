@@ -33,7 +33,86 @@ Corruption: Shaping Tomorrow's Integrity**.
 | :-: |
 | António Guterres |
 
-TODO
+It's an intergovernmental organization **founded in 1945**, just after the end
+of World War II. It was established by 51 original member countries with the
+primary mission of maintaining international peace and security.
+
+Today, it comprises 193 Member States — nearly every country in the world. Its
+headquarters are in New York City, with main offices in Geneva, Nairobi, and
+Vienna.
+
+The UN's work is guided by the purposes and principles contained in its founding
+document, the UN Charter.
+
+The United Nations' activities are focused on four main pillars:
+1. **maintaining peace and security**: this is the UN's most well-known role. It
+   includes:
+   - peacekeeping: deploying neutral military and police personnel (known as
+     "Blue Helmets" or "Blue Berets") to conflict zones to monitor ceasefires
+     and protect civilians;
+   - conflict prevention: using diplomacy and mediation to stop disputes from
+     escalating into war;
+   - peacebuilding: helping countries transition from conflict to peace through
+     rebuilding institutions and supporting reconciliation.
+1. **protecting human rights**: the UN is the global guardian of human rights.
+   It created the Universal Declaration of Human Rights (1948), a milestone
+   document that sets out fundamental rights to be universally protected. It
+   monitors human rights situations worldwide and speaks out against violations;
+1. **delivering humanitarian aid**: when a disaster, famine, or conflict
+   strikes, the UN coordinates the global response. Agencies like the World Food
+   Programme (WFP) and UNICEF (Children's Fund) provide food, water, shelter,
+   and medical care to millions of people in need. The UN Refugee Agency (UNHCR)
+   protects people who have been forced to flee their homes;
+1. **promoting sustainable development and climate action**: it works to improve
+   people's lives and protect the planet. Its current agenda is the 17
+   Sustainable Development Goals (SDGs), a plan adopted by all members in 2015.
+   These goals are a call to action to end poverty, improve health and
+   education, reduce inequality, and combat climate change by 2030.
+
+   > [!NOTE]
+   >
+   > Combating corruption is part of the 16th SDG **"Peace, Justice and Strong
+   > Institutions"**, with some targets explicitly aiming at its reduction:
+   > - `4` «By 2030, significantly reduce illicit financial and arms flows,
+   >   strengthen the recovery and return of stolen assets and combat all forms
+   >   of organized crime»;
+   > - `5` «Substantially reduce corruption and bribery in all their forms»;
+   > - `6` «Develop effective, accountable and transparent institutions at all
+   >   levels»;
+   > - `10` «Ensure public access to information and protect fundamental
+   >   freedoms, in accordance with national legislation and international
+   >   agreements».
+
+The United Nations is structured around six principal organs, each with a
+distinct role:
+1. **General Assembly** (UNGA) *(Assemblea Generale)*, the UN's main
+   deliberative and policymaking body. It is composed of all 193 Member States,
+   each with one vote. It discusses and makes recommendations on all matters
+   covered by the UN Charter;
+2. **Security Council** (UNSC) *(Consiglio di Sicurezza)*, the UN's most
+   powerful body, with primary responsibility for maintaining international
+   peace and security. It has 15 members:
+   - <u>5 permanent members</u> (P5): China, France, the Russian Federation, the
+     United Kingdom, and the United States. These five countries have the power
+     to veto any major resolution;
+   - <u>10 non-permanent members</u>, elected by the General Assembly for
+     two-year terms.
+3. **Economic and Social Council** (ECOSOC) *(Consiglio Economico e Sociale)*,
+   it focuses on economic, social, and environmental issues. It coordinates the
+   work of the UN's many specialized agencies, such as the World Health
+   Organization (WHO) and UNESCO;
+4. **International Court of Justice** (ICJ) *(Corte Internazionale di
+   Giustizia)*, located in The Hague, Netherlands, this is the UN's principal
+   judicial organ. Its role is to settle legal disputes between states and give
+   advisory opinions on legal questions;
+5. **Secretariat** *(Segretariato)*, it's the "civil service" of the UN,
+   carrying out the day-to-day work of the organization. It is led by the
+   Secretary-General, who is the chief administrative officer and a global
+   symbol of the UN's ideals;
+6. **Trusteeship Council** *(Consiglio di Amministrazione Fiduciaria)*, it was
+   established to supervise 11 "Trust Territories" as they transitioned to
+   independence. Having completed its mission, it **suspended operations** in
+   1994.
 
 ### [United Nations Office on Drugs and Crime][unodc] (UNODC)
 
