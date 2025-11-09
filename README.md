@@ -681,7 +681,45 @@ Its main functions include:
 
 ### [Convention on Combating Bribery of Foreign Public Officials in International Business Transactions][oecd-bribery-convention]
 
-TODO
+This agreement, commonly known as the OECD Anti-Bribery Convention, is the
+primary international instrument designed to stop the bribery of foreign public
+officials in global business deals.
+
+The convention's central goal is to create a level playing field in
+international business by making it a crime for companies and individuals to
+bribe foreign public officials to obtain or retain business. It specifically
+targets the "supply side" of bribery, that is the person or entity offering or
+giving the bribe.
+
+Countries that are parties to the convention are legally bound to implement its
+standards into their domestic laws. Key requirements include:
+- **criminalizing foreign bribery**: parties must make it a criminal offense for
+  any person to intentionally offer, promise, or give an "undue pecuniary or
+  other advantage" to a foreign public official to secure an improper advantage
+  in international business;
+- **corporate liability**: the convention mandates that companies (referred to
+  as "legal persons") can be held responsible for the bribery of foreign public
+  officials;
+- **sanctions**: penalties for bribery must be "effective, proportionate, and
+  dissuasive". For individuals, this must include criminal penalties (including
+  potential imprisonment), and for companies, it must include significant
+  monetary sanctions;
+- **accounting and auditing**: parties must require companies to maintain
+  accurate books and records, prohibiting practices like off-the-books accounts
+  or "slush funds" *(fondi illeciti)* used to hide bribes;
+- **mutual legal assistance**: signatory countries must provide prompt and
+  effective legal assistance to one another in investigations and prosecutions
+  related to the convention's offenses.
+
+The convention is not just a signed document; its implementation is actively and
+rigorously monitored by the OECD Working Group on Bribery (WGB). It's the body
+responsible for monitoring all parties. It is composed of representatives from
+all signatory countries. The WGB conducts a systematic, multi-phase peer-review
+process to evaluate how well each member country is implementing and enforcing
+the convention. The WGB publishes its detailed country reports, including
+recommendations for legal and policy reforms. This "name and shame" (or "name
+and praise") system creates significant political pressure on countries to
+uphold their commitments.
 
 ## [European Anti-Fraud Office][olaf] *(OLAF)*
 
