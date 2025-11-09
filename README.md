@@ -227,12 +227,12 @@ The [UN Office on Drugs and
 Crime](#united-nations-office-on-drugs-and-crime-unodc) (UNODC) serves as the
 secretariat for the Convention.
 
-#### [GlobE Network][globe-network]
+#### [Global Operational Network of Anti-Corruption Law Enforcement Authorities][globe-network]
 
 <img src="assets/img/globe-network.png" alt="Logo" height="80px">
 
-It was established in 2021 as a G20 initiative and is supported by the [United
-Nations Office on Drugs and
+The **GlobE Network** was established in 2021 as a G20 initiative and is
+supported by the [United Nations Office on Drugs and
 Crime](#united-nations-office-on-drugs-and-crime-unodc), which provides its
 secretariat.
 
