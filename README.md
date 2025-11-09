@@ -539,7 +539,7 @@ It's best known for its two main annual reports:
 | :-: | :-: |
 | Mr. Danny Y M Woo | Dr. Giuseppe Busia |
 
-| 🇮🇹 | 🇭🇺 |
+| Italy 🇮🇹 | Hungary 🇭🇺 |
 | :-: | :-: |
 | [ANAC](#italian-national-anticorruption-authority-anac) | [Integrity Authority](#hungarys-integrity-authority) |
 
