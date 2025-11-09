@@ -227,6 +227,30 @@ The [UN Office on Drugs and
 Crime](#united-nations-office-on-drugs-and-crime-unodc) (UNODC) serves as the
 secretariat for the Convention.
 
+#### [GlobE Network][globe-network]
+
+<img src="assets/img/globe-network.png" alt="Logo" height="80px">
+
+It was established in 2021 as a G20 initiative and is supported by the [United
+Nations Office on Drugs and
+Crime](#united-nations-office-on-drugs-and-crime-unodc), which provides its
+secretariat.
+
+Its primary goal is to make transnational cooperation faster and more effective.
+It does this by creating a secure and trusted environment where anti-corruption
+officials from different countries can directly contact and cooperate with each
+other.
+
+Its main functions include:
+- **facilitating informal cooperation**: it helps law enforcement authorities to
+  quickly and informally share information, intelligence, and best practices to
+  advance investigations;
+- **case-specific support**: it provides a secure communication platform for
+  practitioners to coordinate on specific cross-border corruption cases, helping
+  to track, investigate, and prosecute offenders;
+- **asset recovery**: a key focus is to assist in the recovery of stolen assets
+  that have been moved to other jurisdictions.
+
 ## Hungary's National Protective Service *(NVSZ)*
 
 <img src="assets/img/nvsz.png" alt="Logo" height="80px">
@@ -754,6 +778,7 @@ OLAF fulfils its mission by:
       the core institutions that a country needs to function effectively.
 
 [anac]: https://www.anticorruzione.it
+[globe-network]: https://globenetwork.unodc.org/globenetwork/index.html
 [greco]: https://www.coe.int/en/web/greco/home
 [ia]: https://integritashatosag.hu/en/
 [iaaca]: https://www.iaaca.net
