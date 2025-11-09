@@ -535,7 +535,7 @@ It's best known for its two main annual reports:
 
 <img src="assets/img/iaaca.jpg" alt="Logo" height="80px">
 
-| President | Vice President (1 of 3) |
+| President | Vice President <span style="font-weight: normal;">(1 of 3)</span> |
 | :-: | :-: |
 | Mr. Danny Y M Woo | Dr. Giuseppe Busia |
 
