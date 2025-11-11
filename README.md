@@ -770,6 +770,8 @@ OLAF fulfils its mission by:
 
 ## Cressey's fraud triangle
 
+<img src="assets/img/cressey-fraud-triangle.png" alt="Fraud triangle" height="320px">
+
 It's a fundamental model in criminology and accounting used to explain the
 factors that cause an individual to commit occupational fraud[^3] *(frode sul
 lavoro)*. It was developed based on the research of sociologist and
