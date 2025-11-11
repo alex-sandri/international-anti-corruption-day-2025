@@ -768,6 +768,42 @@ OLAF fulfils its mission by:
   Institutions;
 - developing a sound EU anti-fraud policy.
 
+## Cressey's fraud triangle
+
+It's a fundamental model in criminology and accounting used to explain the
+factors that cause an individual to commit occupational fraud[^3] *(frode sul
+lavoro)*. It was developed based on the research of sociologist and
+criminologist Dr. Donald R. Cressey in the 1950s.
+
+Cressey's research, particularly his book "Other People's Money", studied
+embezzlers (or "trust violators") and concluded that three specific factors must
+be present for an ordinary, trusted person to commit fraud:
+1. **pressure** (or incentive), this is the motivation or "non-shareable
+   financial need" that drives the individual to act. The pressure is often
+   something the person feels they cannot share with others, such as:
+   - **financial difficulties**: mounting debts, medical bills, or gambling
+     losses;
+   - **work-related pressure**: feeling underpaid, being passed over for a
+     promotion, or facing unrealistic performance targets;
+   - **lifestyle-driven pressure**: a desire to maintain a lavish lifestyle that
+     is beyond their means, or social pressure to appear successful.
+2. **opportunity**, this refers to the individual's ability to commit the fraud.
+   The person must perceive a clear chance to commit the act, conceal it, and
+   avoid detection. Opportunities often arise from:
+   - **weak internal controls**: lack of supervision, poor separation of duties
+     (e.g., one person handles receiving, recording, and approving payments), or
+     inadequate auditing;
+   - **position of trust**: having access to sensitive information, assets, or
+     systems that others do not;
+   - **ineffective oversight**: a belief that "no one is watching" or that the
+     company won't punish fraudulent behavior.
+3. **rationalization**, this is the psychological component where the fraudster
+   justifies their actions to themselves, allowing them to commit the crime
+   without feeling like a criminal.
+
+According to Cressey's theory, fraud is most likely to occur when all three of
+these elements are present.
+
 [^1]: Its the misappropriation when the property or funds involved have been
       lawfully entrusted to the embezzler. In circumstances where the funds are
       accessible to, but not entrusted to, the perpetrator, it is not
@@ -776,6 +812,9 @@ OLAF fulfils its mission by:
 
 [^2]: The practical process of creating, strengthening, and professionalizing
       the core institutions that a country needs to function effectively.
+
+[^3]: The misuse of a person's job for personal enrichment through the
+      deliberate misuse of company resources.
 
 [anac]: https://www.anticorruzione.it
 [globe-network]: https://globenetwork.unodc.org/globenetwork/index.html
