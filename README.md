@@ -33,6 +33,10 @@ Corruption: Shaping Tomorrow's Integrity**.
 | :-: |
 | António Guterres |
 
+> [!INFO]
+>
+> 📄 [UN Charter](assets/pdf/uncharter.pdf).
+
 It's an intergovernmental organization **founded in 1945**, just after the end
 of World War II. It was established by 51 original member countries with the
 primary mission of maintaining international peace and security.
@@ -173,6 +177,10 @@ The UNODC focuses its efforts on several key areas:
   access to justice, promoting prison reform, and preventing violence.
 
 #### [United Nations Convention Against Corruption][uncac] (UNCAC)
+
+> [!INFO]
+>
+> 📄 [PDF](assets/pdf/UN_Convention_Against_Corruption.pdf).
 
 It's the only legally binding, universal anti-corruption treaty. It provides a
 comprehensive framework for member states to prevent and combat corruption in
