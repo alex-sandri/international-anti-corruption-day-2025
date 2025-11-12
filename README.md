@@ -35,7 +35,7 @@ Corruption: Shaping Tomorrow's Integrity**.
 
 > [!TIP]
 >
-> 📄 [UN Charter](assets/pdf/uncharter.pdf).
+> 📄 [UN Charter](assets/pdf/uncharter.pdf), signed on **June 26, 1945**.
 
 It's an intergovernmental organization **founded in 1945**, just after the end
 of World War II. It was established by 51 original member countries with the
