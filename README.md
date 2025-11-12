@@ -33,7 +33,7 @@ Corruption: Shaping Tomorrow's Integrity**.
 | :-: |
 | António Guterres |
 
-> [!INFO]
+> [!TIP]
 >
 > 📄 [UN Charter](assets/pdf/uncharter.pdf).
 
@@ -178,7 +178,7 @@ The UNODC focuses its efforts on several key areas:
 
 #### [United Nations Convention Against Corruption][uncac] (UNCAC)
 
-> [!INFO]
+> [!TIP]
 >
 > 📄 [PDF](assets/pdf/UN_Convention_Against_Corruption.pdf).
 
