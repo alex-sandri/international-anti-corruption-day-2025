@@ -123,7 +123,7 @@ equidistant projection centred on the North Pole, inscribed in a wreath
 consisting of crossed conventionalized branches of the olive tree, in gold on a
 field of smoke-blue with all water areas in white. The projection of the map
 extends to 60 degrees south latitude, and includes five concentric circles".\
-The “UN blue” colour was also chosen at this time and became an integral part of
+The "UN blue" colour was also chosen at this time and became an integral part of
 the visual identity of the Organization. Blue represents peace in opposition to
 red, for war.
 
