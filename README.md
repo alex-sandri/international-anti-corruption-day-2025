@@ -107,7 +107,7 @@ distinct role:
    Giustizia)*, located in The Hague, Netherlands, this is the UN's principal
    judicial organ. Its role is to settle legal disputes between states and give
    advisory opinions on legal questions;
-5. **Secretariat** *(Segretariato)*, it's the "civil service" of the UN,
+5. **Secretariat** *(Segretariato)*, it's the "civil service"[^1] of the UN,
    carrying out the day-to-day work of the organization. It is led by the
    Secretary-General, who is the chief administrative officer and a global
    symbol of the UN's ideals;
@@ -364,7 +364,7 @@ repression of crimes.
 Its main tasks are:
 - **complex investigations**: it conducts judicial police investigations focused
   on serious crimes against the Public Administration, such as corruption,
-  extortion by a public official, embezzlement[^1] *(appropriazione indebita)*,
+  extortion by a public official, embezzlement[^2] *(appropriazione indebita)*,
   and abuse of office;
 - **ANAC's operational arm**: it acts as the primary investigative arm for ANAC.
   When ANAC, during its administrative monitoring activities, identifies facts
@@ -393,7 +393,7 @@ understanding *(protocollo d'intesa)*.
 | Dr. Gergely Deli |
 
 It's a specialized, state-run institution and serves as the primary educational
-and research center for public service and state-building[^2].
+and research center for public service and state-building[^3].
 
 Its core mission is to educate and train professionals for careers in public
 administration, law enforcement, the military, and international affairs. It
@@ -427,7 +427,7 @@ educational and sporting facilities.
 
 | Hungary 🇭🇺 | Italy 🇮🇹 | Croatia 🇭🇷 | Germany 🇩🇪 | Romania 🇷🇴 | Portugal 🇵🇹 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| &#9989; | &#10060; | &#9989; | &#10060; | &#9989; | ✍️[^3] |
+| &#9989; | &#10060; | &#9989; | &#10060; | &#9989; | ✍️[^4] |
 
 | Dean and Executive Secretary |
 | :-: |
@@ -792,7 +792,7 @@ OLAF fulfils its mission by:
 <img src="assets/img/cressey-fraud-triangle.png" alt="Fraud triangle" height="320px">
 
 It's a fundamental model in criminology and accounting used to explain the
-factors that cause an individual to commit occupational fraud[^4] *(frode sul
+factors that cause an individual to commit occupational fraud[^5] *(frode sul
 lavoro)*. It was developed based on the research of sociologist and
 criminologist Dr. Donald R. Cressey in the 1950s.
 
@@ -825,18 +825,26 @@ be present for an ordinary, trusted person to commit fraud:
 According to Cressey's theory, fraud is most likely to occur when all three of
 these elements are present.
 
-[^1]: Its the misappropriation when the property or funds involved have been
+[^1]: The civil service is the permanent, professional branch of a country's
+      government. It's made up of government employees (known as civil servants)
+      who are hired for their skills and merit, rather than being elected or
+      politically appointed.\
+      The main role of the civil service is to support the government of the day
+      in developing and implementing its policies, as well as delivering public
+      services.
+
+[^2]: Its the misappropriation when the property or funds involved have been
       lawfully entrusted to the embezzler. In circumstances where the funds are
       accessible to, but not entrusted to, the perpetrator, it is not
       embezzlement but can still be considered larceny, misappropriation,
       misapplication, or some other similar term.
 
-[^2]: The practical process of creating, strengthening, and professionalizing
+[^3]: The practical process of creating, strengthening, and professionalizing
       the core institutions that a country needs to function effectively.
 
-[^3]: Portugal has only signed IACA's founding treaty but has yet to ratify it.
+[^4]: Portugal has only signed IACA's founding treaty but has yet to ratify it.
 
-[^4]: The misuse of a person's job for personal enrichment through the
+[^5]: The misuse of a person's job for personal enrichment through the
       deliberate misuse of company resources.
 
 [anac]: https://www.anticorruzione.it
