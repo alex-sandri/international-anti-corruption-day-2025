@@ -414,9 +414,9 @@ educational and sporting facilities.
 
 <img src="assets/img/iaca.png" alt="Logo" height="80px">
 
-| Hungary 🇭🇺 | Italy 🇮🇹 | Croatia 🇭🇷 | Germany 🇩🇪 | Romania 🇷🇴 |
-| :-: | :-: | :-: | :-: | :-: |
-| &#9989; | &#10060; | &#9989; | &#10060; | &#9989; |
+| Hungary 🇭🇺 | Italy 🇮🇹 | Croatia 🇭🇷 | Germany 🇩🇪 | Romania 🇷🇴 | Portugal 🇵🇹 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| &#9989; | &#10060; | &#9989; | &#10060; | &#9989; | ✍️[^3] |
 
 | Dean and Executive Secretary |
 | :-: |
@@ -781,7 +781,7 @@ OLAF fulfils its mission by:
 <img src="assets/img/cressey-fraud-triangle.png" alt="Fraud triangle" height="320px">
 
 It's a fundamental model in criminology and accounting used to explain the
-factors that cause an individual to commit occupational fraud[^3] *(frode sul
+factors that cause an individual to commit occupational fraud[^4] *(frode sul
 lavoro)*. It was developed based on the research of sociologist and
 criminologist Dr. Donald R. Cressey in the 1950s.
 
@@ -823,7 +823,9 @@ these elements are present.
 [^2]: The practical process of creating, strengthening, and professionalizing
       the core institutions that a country needs to function effectively.
 
-[^3]: The misuse of a person's job for personal enrichment through the
+[^3]: Portugal has only signed IACA's founding treaty but has yet to ratify it.
+
+[^4]: The misuse of a person's job for personal enrichment through the
       deliberate misuse of company resources.
 
 [anac]: https://www.anticorruzione.it
