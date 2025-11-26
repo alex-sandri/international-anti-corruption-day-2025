@@ -207,7 +207,7 @@ was later signed on December 9, 2003 and entered into force on December 14,
 >
 > <small><i>~ art. 67, par. 1 UNCAC</i></small>
 
-It's subdiveded into eight chapters:
+It's subdivided into eight chapters:
 1. **General provisions**;
 1. **Preventive measures**:
    - *"Preventive anti-corruption body or bodies" (art. 6)*;
