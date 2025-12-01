@@ -168,8 +168,8 @@ rights, and development. It achieves this through three main pillars of work:
    - training police officers, border guards, prosecutors, and judges;
    - helping to reform justice and prison systems;
    - supporting drug use prevention, treatment, and care programs;
-   - developing sustainable alternative livelihoods for farmers who cultivate
-     illicit crops.
+   - developing sustainable alternative livelihoods *(mezzi di sussistenza)* for
+     farmers who cultivate illicit crops.
 
 The UNODC focuses its efforts on several key areas:
 - **countering organized crime**: this includes fighting human trafficking
