@@ -251,6 +251,18 @@ The [UN Office on Drugs and
 Crime](#united-nations-office-on-drugs-and-crime-unodc) (UNODC) serves as the
 secretariat for the Convention.
 
+The Mechanism for the Review of Implementation of the United Nations Convention
+against Corruption, also called the "**Implementation Review Mechanism**" or
+"IRM" is a peer review process that assists States parties to effectively
+implement the Convention.\
+The Implementation Review Mechanism operates under the guidance and oversight of
+the Implementation Review Group. The Group serves as a subsidiary body of the
+Conference of the States Parties to the Convention and is comprised of all
+States parties.\
+In accordance with the Terms of Reference of the Mechanism, each party undergoes
+a <u>review process conducted by two peers</u>, one of which must be from the
+same regional group, to assess their level of implementation of the Convention.
+
 #### [Global Operational Network of Anti-Corruption Law Enforcement Authorities][globe-network]
 
 <img src="assets/img/globe-network.png" alt="Logo" height="80px">
