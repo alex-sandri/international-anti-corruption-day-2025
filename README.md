@@ -41,6 +41,11 @@ It's an intergovernmental organization **founded in 1945**, just after the end
 of World War II. It was established by 51 original member countries with the
 primary mission of maintaining international peace and security.
 
+The **United Nations Conference on International Organization** (UNCIO),
+commonly known as the *San Francisco Conference* took place <u>from April 25 to
+June 26, 1945</u> in San Francisco, California, United States.\
+The United Nations <u>officially began on 24 October 1945</u>.
+
 Today, it comprises 193 Member States — nearly every country in the world. Its
 headquarters are in New York City, with main offices in Geneva, Nairobi, and
 Vienna.
